@@ -32,6 +32,3 @@ if __name__=='__main__':
         pain += '\n'
     
     print(pain)
-
-    # with open("E:\VSCode\Python-Exercises", 'w') as f:
-    # f.write(pain)
